@@ -4,5 +4,4 @@ transformers==4.30.0
 datasets==2.15.0
 bitsandbytes==0.41.2
 sentence-transformers==2.2.2
-faiss-gpu==1.7.4
 accelerate==0.24.1
